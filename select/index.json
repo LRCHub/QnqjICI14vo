@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Last Moment",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-12T06:38:44.788654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Our Last Moment In Song",
+      "artist": "Brian McBride",
+      "has_synced": false,
+      "path": "select/01_Our_Last_Moment_In_Song_Brian_McBride.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Very Last Moment In Time",
+      "artist": "Lindsay Lohan",
+      "has_synced": true,
+      "path": "select/02_Very_Last_Moment_In_Time_Lindsay_Lohan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Last Moment You Leave Me",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/03_The_Last_Moment_You_Leave_Me_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Last Moment Of Clarity",
+      "artist": "BT",
+      "has_synced": false,
+      "path": "select/04_The_Last_Moment_Of_Clarity_BT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Moment",
+      "artist": "Yousei Teikoku",
+      "has_synced": true,
+      "path": "select/05_Last_Moment_Yousei_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-)",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/06_The_Everlasting_Guilty_Crown_(BOOM_BOOM_SATELLITES_remix_-The_Last_Moment_Of_The_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Moment",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_Last_Moment_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "6:49 Am Was the Last Moment I Lost U",
+      "artist": "Kill the Intellectuals",
+      "has_synced": false,
+      "path": "select/08_6_49_Am_Was_the_Last_Moment_I_Lost_U_Kill_the_Intellectuals.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown (BOOM BOOM SATELLITES remix -The Last Moment Of  The Dawn-)",
+      "artist": "chelly",
+      "has_synced": false,
+      "path": "select/09_The_Everlasting_Guilty_Crown_(BOOM_BOOM_SATELLITES_remix_-The_Last_Moment_Of_The_chelly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Moment On Earth (2K12 EQ)",
+      "artist": "Furries in a Blender",
+      "has_synced": false,
+      "path": "select/10_Last_Moment_On_Earth_(2K12_EQ)_Furries_in_a_Blender.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Last Moment",
+      "artist": "Khoma",
+      "has_synced": false,
+      "path": "select/11_One_Last_Moment_Khoma.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mi Todo Eres T£ (Until the Last Moment)",
+      "artist": "Yanni",
+      "has_synced": true,
+      "path": "select/12_Mi_Todo_Eres_T£_(Until_the_Last_Moment)_Yanni.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mi todo eres tú (Until the Last Moment)",
+      "artist": "Yanni",
+      "has_synced": true,
+      "path": "select/13_Mi_todo_eres_tú_(Until_the_Last_Moment)_Yanni.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Moment Of Clarity",
+      "artist": "BT",
+      "has_synced": true,
+      "path": "select/14_Last_Moment_Of_Clarity_BT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Moment",
+      "artist": "Ardours",
+      "has_synced": false,
+      "path": "select/15_Last_Moment_Ardours.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Moment",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Moment_SPYAIR.txt"
+    }
+  ]
+}
